@@ -1487,14 +1487,8 @@ li.sel {
         margin-bottom: 2.5%
     }
 }
-.create-dm .portfolio-item__header {
-    background-color: #FFBBB9;
-    padding-top: 10%
-}
-.create-dm .portfolio-item__header img {
-    width: 43%;
-    max-width: 55.5em
-}
+
+
 .in-everyone .portfolio-item__header {
     background-image: url(../img/portfolio/in-everyone/bgrnd.jpg);
     -webkit-background-size: cover;
